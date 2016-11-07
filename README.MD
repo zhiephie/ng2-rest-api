@@ -25,7 +25,7 @@ $ npm install ng2-rest-api
 ## Add to project
 
 ```bash
-$ npm install ng-rest-api --save
+$ npm install ng2-rest-api --save
 ```
 
 ## STEPS
